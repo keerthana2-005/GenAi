@@ -1,0 +1,38 @@
+gen ai
+  
+
+1.google n-grams(created by google)
+2.count vetorizer 
+3.TF-IDF
+4.cosine similarity
+5.siekit learn
+6.vector index(used by spotify)
+7.postgress(easy to do with doccer)
+
+Techniques to develop word embedding
+1.FastText(created by facebook)
+2.Glove(matric factorisation approach)
+   They are called pretrained embedded models
+3.word2vec 
+
+
+1.cosine similarity
+2.tsne
+3.common crawl dataset
+
+
+
+steps 
+1.fasttext en embedding data file
+2.load the files in python
+a.linux
+b.windows/anaconda python
+c.use google colllab
+3.dictionary
+
+
+
+
+1.kaggle notebook-clone 
+2.run cell by cell
+3.make changes to break and introduce error
